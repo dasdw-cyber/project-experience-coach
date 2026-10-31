@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人项目梳理"
+  short_description: "先读材料或整理粗略描述，逐轮理顺项目链，输出完整整理与简历版项目经历"
+  default_prompt: "请使用 $project-experience-coach，先读取已有材料，未提供时先问有没有；无材料就从我的粗略描述整理暂定项目链，再每轮补清一个问题，最终输出完整项目整理和带四字或五字加粗标签的简历版经历。"
