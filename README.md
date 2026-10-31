@@ -74,7 +74,7 @@ STAR 用于助手后台组织事实。你可以用口语和片段回答，助手
 
 ## 与其他 Skill 衔接
 
-**个人项目整理 → 按学校筛选导师 → 针对选定导师撰写自荐信**
+**个人项目整理 → [按学校筛选导师](https://github.com/dasdw-cyber/baoyan-supervisor-match) → [针对选定导师撰写自荐信](https://github.com/dasdw-cyber/baoyan-outreach-letter)**
 
 完整项目整理可以直接交给后续 Skill 使用，作为个人经历与贡献的事实依据。本 Skill 也可以独立用于简历和面试准备。
 
